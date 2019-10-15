@@ -18,9 +18,9 @@
     "searchable",
     "search"
   ],
-  "main": "src/react-dropdown-tree-select.js",
-  "types": "types/react-dropdown-tree-select.d.ts",
-  "repository": "https://github.com/dowjones/react-dropdown-tree-select.git",
+  "main": "dist/react-dropdown-tree-select.js",
+  "types": "dist/react-dropdown-tree-select.d.ts",
+  "repository": "https://github.com/mateim24/react-dropdown-tree-select.git",
   "author": "Hrusikesh Panda <hrusikesh.panda@dowjones.com>",
   "license": "MIT",
   "scripts": {
@@ -40,7 +40,7 @@
     "contributors": "all-contributors add && all-contributors generate"
   },
   "files": [
-    "src"
+    "dist"
   ],
   "dependencies": {
     "array.partial": "^1.0.5",
